@@ -1,0 +1,266 @@
+AHOLATRANS	Ahola Transport	AHOLATRANSSG	Ahola Transport Styckegods	AX, CZ, DK, EE, FI, HU, LT, LV, NO, PL, SE, SK	AX, CZ, DK, EE, FI, HU, LT, LV, NO, PL, SE, SK
+AKKA	AkkaFRAKT	AKKADIST	AkkaFRAKT Distribution	SE	*
+AKKA	AkkaFRAKT	AKKAKRAN	AkkaFRAKT Kran	SE	*
+ASENDIA	Asendia	ASNCT	Asendia Country-tracked	DK, EE, FI, LT, LV, NO, SE	*
+ASENDIA	Asendia	ASNFT	Asendia Fully-tracked	DK, EE, FI, LT, LV, NO, SE	AL, AT, AU, BE, BG, BR, CA, CH, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GI, GR, HK, HR, HU, IE, IL, IN, IS, IT, JP, KH, KR, LB, LT, LU, LV, MC, MT, MY, NL, NO, NZ, PL, PT, RO, RS, RU, SA, SE, SG, SI, SK, TH, TR, TW, US, UY
+ASENDIA	Asendia	ASNPR	Asendia Premium	DK, EE, FI, LT, LV, NO, SE	AT, BE, BG, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HU, IE, IT, LT, LU, LV, NL, PL, PT, RO, SE, SI, SK
+BCMSE	Bring Citymail	BCMSEBLP	Bring Citymail Brevlådepaket	SE	SE
+BCSE	Bring Cargo International AB	BCSEP	Bring Cargo International Partigods (14)	SE	*
+BCSE	Bring Cargo International AB	BCSES	Bring Cargo International Styckegods (9)	SE	*
+BCSED	Bring Cargo Sverige (inrikes)	BCSEDSTD	Bring Cargo Inrikes (SE)	SE	SE
+BEST	Best Transport	BESTHL	Best Hemleverans 18:00-22:00	SE	SE
+BEST	Best Transport	BESTHLD	Best Hemleverans dag 08:00-17:00 Flex	SE	*
+BEST	Best Transport	BESTHLM	Best Hemleverans förmiddag 09:00-13:00 Flex	SE	*
+BEST	Best Transport	BESTHLE	Best Hemleverans kväll 18:00-22:00 Flex	SE	*
+BOX	Bring Express	BOXBD	Bring Express Business Distribution	DK, NO, SE	DK, NO, SE
+BOX	Bring Express	BOXBDP	Bring Express Business Distribution Pallet	DK, NO, SE	DK, NO, SE
+BOX	Bring Express	BOXCA	Bring Express Courier Ad-Hoc	DK, NO, SE	DK, NO, SE
+BOX	Bring Express	BOXCD	Bring Express Courier Distribution	DK, NO, SE	DK, NO, SE
+BOX	Bring Express	BOXHD	Bring Express Home Delivery	DK, NO, SE	DK, NO, SE
+BOX	Bring Express	BOXHDR	Bring Express Home Delivery Return	DK, NO, SE	DK, NO, SE
+BOX	Bring Express	BOXPL	Bring Express Pickup Large	NO, SE	NO, SE
+BOX	Bring Express	BOXSHD	Bring Express Store Home Delivery	DK, NO, SE	DK, NO, SE
+BOX	Bring Express	BOXSHDR	Bring Express Store Home Delivery Return 	DK, NO, SE	DK, NO, SE
+BP	Bring Parcels Norge (inrikes)	BPBDD	Bring Bedriftspakke	NO	NO, SJ
+BP	Bring Parcels Norge (inrikes)	BPBE09	Bring Bedriftspakke Ekspress over natt - 0900	NO	NO, SJ
+BP	Bring Parcels Norge (inrikes)	BPSP	Bring Klimanøytral Servicepakke	NO	NO, SJ
+BP	Bring Parcels Norge (inrikes)	BPMP	Bring Minipakken	NO	NO, SJ
+BP	Bring Parcels Norge (inrikes)	BPPD	Bring Pakke på Døren	NO	NO, SJ
+BUDBEE	Budbee	BUDBEESTD	Budbee	SE	SE
+BUDBEE	Budbee	BUDBEEEXPRESS	Budbee Express Delivery	SE	SE
+BUDETT	Budcompaniett	BUDETT3TIM	Budcompaniet 3 timmars bud	SE	SE
+BUDETT	Budcompaniett	BUDETTPANIK	Budcompaniet Panikbud	SE	SE
+BUDETT	Budcompaniett	BUDETTTUR	Budcompaniet Turbud	SE	SE
+CG	Bussgods	CGB	Bussgods	SE	FI, SE
+DACHSER	Dachser	DACTFIX	Dachser Targofix	DK, PL, SE	*
+DACHSER	Dachser	DACTFIX10	Dachser Targofix 10:00	DK, PL, SE	*
+DACHSER	Dachser	DACTFIX12	Dachser Targofix 12:00	DK, PL, SE	*
+DACHSER	Dachser	DACTFLEX	Dachser Targoflex	DK, PL, SE	*
+DACHSER	Dachser	DACTSPEED	Dachser Targospeed	DK, PL, SE	*
+DACHSER	Dachser	DACTSPEED10	Dachser Targospeed 10:00	DK, PL, SE	*
+DACHSER	Dachser	DACTSPEED12	Dachser Targospeed 12:00	DK, PL, SE	*
+DACHSER	Dachser	DACTSPEEDPLUS	Dachser Targospeed Plus	DK, PL, SE	*
+DANX	DANX	DANXAIR	DANX Air	*	*
+DANX	DANX	DANXSTD	DANX Road	*	*
+DFM	Danske Fragtmænd	DFMBP	Danske Fragtmænd Bilpakke	DK, SE	DE, DK, SE
+DFM	Danske Fragtmænd	DFMEP	Danske Fragtmænd Erhvervsbilpakke	DK, SE	DE, DK, SE
+DFM	Danske Fragtmænd	DFMSG	Danske Fragtmænd Styckegods	DK, SE	DE, DK, SE
+DFM	Danske Fragtmænd	DFMVP	Danske Fragtmænd Volumepakke	DK, SE	DE, DK, SE
+DGF	DHL Global Forwarding	DGFAIR	DHL Global Forwarding Air Freight	*	*
+DGF	DHL Global Forwarding	DGFAIRPLUS	DHL Global Forwarding Air Freight PLUS	*	*
+DHLAIR	DHL Express	DADOK	DHL Express 09:00 (Inrikes)	DK, EE, SE	DK, EE, SE
+DHLAIR	DHL Express	DASE	DHL Express 09:00 (Tullfri)	DK, EE, FI, SE	*
+DHLAIR	DHL Express	DASECD	DHL Express 09:00 (Tullpliktigt)	DK, EE, FI, SE	*
+DHLAIR	DHL Express	DATDL	DHL Express 10:30 (Tullfri)	DK, EE, FI, SE	US
+DHLAIR	DHL Express	DATDM	DHL Express 10:30 (Tullpliktigt)	DK, EE, FI, SE	US
+DHLAIR	DHL Express	DADOT	DHL Express 12:00 (Inrikes)	DK, EE, SE	DK, EE, SE
+DHLAIR	DHL Express	DAME	DHL Express 12:00 (Tullfri)	DK, EE, FI, SE	*
+DHLAIR	DHL Express	DAMECD	DHL Express 12:00 (Tullpliktigt)	DK, EE, FI, SE	*
+DHLAIR	DHL Express	DAESU	DHL Express Economy Select (Tullfri)	EE, FI, SE	AT, BE, BG, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, MC, NL, PL, PT, RO, SE, SI, SK
+DHLAIR	DHL Express	DAESI	DHL Express Economy Select (Tullpliktigt)	EE, FI, SE	AD, AX, CH, GI, LI, NO, SM
+DHLAIR	DHL Express	DAXPD	DHL Express Envelope (Tullfri)	DK, EE, FI, SE	*
+DHLAIR	DHL Express	DADOM	DHL Express Worldwide (Inrikes)	DK, EE, FI, SE	DK, EE, FI, SE
+DHLAIR	DHL Express	DAECX	DHL Express Worldwide (Tullfri inom EU)	DK, EE, FI, PL, SE	AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK
+DHLAIR	DHL Express	DADOX	DHL Express Worldwide (Tullfri, ej EU)	DK, EE, FI, PL, SE	*
+DHLAIR	DHL Express	DAWPX	DHL Express Worldwide (Tullpliktigt)	DK, EE, FI, PL, SE	*
+DHLAIR	DHL Express	DADOMR	DHL Express Worldwide Return (Domestic)	DK, EE, FI, SE	DK, EE, FI, SE
+DHLEC	DHL Freight Euroconnect	ASU2	DHL Euroconnect	AD, AT, AX, BE, BG, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GE, GI, GR, HR, HU, IE, IT, LT, LU, LV, MA, MC, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TR, UA	AD, AT, AX, BE, BG, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GE, GI, GR, HR, HU, IE, IT, LT, LU, LV, MA, MC, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TR, UA
+DHLEC	DHL Freight Euroconnect	ASUN	DHL Nordic Pallet	SE	DK, EE, FI, LT, LV, NO
+DHLECP	DHL Freight Euroconnect Plus (kräver 8-ställigt kundnummer som inleds med 8480)	ASUP2	DHL Euroconnect Plus	SE	AT, AX, BE, BG, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HU, IE, IT, LT, LU, LV, NL, NO, PL, PT, RO, SI, SK
+DHLROAD	DHL Freight	AEX	DHL Paket	SE	SE
+DHLROAD	DHL Freight	AEXI	DHL Paket	SE	DK, EE, FI, LT, LV, NO
+DHLROAD	DHL Freight	ASP2	DHL Pall	SE	SE
+DHLROAD	DHL Freight	APC	DHL Parcel Connect	SE	AT, BE, DE, EE, LT, LU, LV, NL, NO, PL
+DHLROAD	DHL Freight	APCS	DHL Parcel Connect (via Ombud)	SE	AT, BE, DE, DK, EE, FI, LT, LU, LV, NL, NO, PL
+DHLROAD	DHL Freight	APCR	DHL Parcel Return Connect	SE	AT, BE, DE, DK, EE, FI, LT, LU, LV, NL, NO, PL
+DHLROAD	DHL Freight	ASWP2	DHL Parti	SE	SE
+DHLROAD	DHL Freight	ASPO	DHL Service Point	SE	SE
+DHLROAD	DHL Freight	ASPOR	DHL Service Point Retur	SE	SE
+DHLROAD	DHL Freight	ASWS2	DHL Stycke	SE	SE
+DHLSPCOD	DHL Freight ServicePoint Efterkrav	ASPOC	DHL Service Point C.O.D.	SE	SE
+DSVD	DSV Road (inrikes)	DSVDEPL	DSV Road e-pallet	SE	SE
+DSVD	DSV Road (inrikes)	DSVDEPCL	DSV Road e-parcel	SE	SE
+DSVD	DSV Road (inrikes)	DSVDECO	DSV Road ECO	SE	SE
+DSVD	DSV Road (inrikes)	DSVDF10	DSV Road F10	SE	SE
+DSVD	DSV Road (inrikes)	DSVDPG	DSV Road Partigods	SE	SE
+DSVD	DSV Road (inrikes)	DSVDSG	DSV Road Styckegods	SE	SE
+DSVDK	DSV Danmark	DSVDKPCL	DSV Parcel	DK, SE	*
+DSVDK	DSV Danmark	DSVDKFULL	DSV Road Full load	DK, SE	AL, AN, AT, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LI, LT, LU, LV, MC, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, TR, UA, VA
+DSVDK	DSV Danmark	DSVDKPART	DSV Road Part load	DK, SE	AL, AN, AT, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LI, LT, LU, LV, MC, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, TR, UA, VA
+DSVDK	DSV Danmark	DSVDKGRP	DSV Road Stykgods	DK, SE	AL, AN, AT, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LI, LT, LU, LV, MC, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, TR, UA, VA
+DSVFI	DSV Finland	DSVFIGRP	DSV Road Kappaletavara	AL, AN, AT, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LI, LT, LU, LV, MC, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TR, UA, VA	AL, AN, AT, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LI, LT, LU, LV, MC, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TR, UA, VA
+DSVFI	DSV Finland	DSVFIFULL	DSV Road Osakuorma	AL, AN, AT, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LI, LT, LU, LV, MC, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TR, UA, VA	AL, AN, AT, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LI, LT, LU, LV, MC, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TR, UA, VA
+DSVI	DSV Road (utrikes)	DSVIDAILY	DSV Road Daily	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, ZA, ZM, ZW
+DSVI	DSV Road (utrikes)	DSVIECO	DSV Road ECO	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, ZA, ZM, ZW
+DSVI	DSV Road (utrikes)	DSVIPG	DSV Road Partigods	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, ZA, ZM, ZW
+DSVI	DSV Road (utrikes)	DSVISCHEDULE	DSV Road Schedule	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, ZA, ZM, ZW
+DSVI	DSV Road (utrikes)	DSVISG	DSV Road Styckegods	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, ZA, ZM, ZW
+DSVNO	DSV Road Norge	DSVNODPG	DSV Road Norge Partigods (inrikes)	NO	NO
+DSVNO	DSV Road Norge	DSVNOIPG	DSV Road Norge Partigods (utrikes)	NO	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, ZA, ZM, ZW
+DSVNO	DSV Road Norge	DSVNODSGS	DSV Road Norge Partigods Specialfrakt (inrikes)	NO	NO
+DSVNO	DSV Road Norge	DSVNODSG	DSV Road Norge Styckegods (inrikes)	NO	NO
+DSVNO	DSV Road Norge	DSVNOISG	DSV Road Norge Styckegods (utrikes)	NO	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, ZA, ZM, ZW
+DTPG	PostNord Logistics AS (Norge)	P42NO	PostNord Logistics Express Next Day (Norge)	NO	NO
+DTPG	PostNord Logistics AS (Norge)	DTPGSG	PostNord NO Groupage	NO	NO, SE
+DTPG	PostNord Logistics AS (Norge)	P19NO	PostNord NO MyPack Collect	NO	NO
+DTPG	PostNord Logistics AS (Norge)	DTPGHD	PostNord NO MyPack Home	NO	NO
+DTPG	PostNord Logistics AS (Norge)	DTPG52	PostNord NO Pallet	NO	*
+DTPG	PostNord Logistics AS (Norge)	DTPGPF	PostNord NO PartLoads	DK, NO, SE	NO
+DTPG	PostNord Logistics AS (Norge)	P24NO	PostNord NO Return Drop Off	NO	NO
+ECOTRANS	Ecotrans Group AB	ECOTRANSG	Ecotrans Group AB	SE	*
+FEDEX	FedEx	FDXIED	FedEx International Economy (Docs)	*	*
+FEDEX	FedEx	FDXIEP	FedEx International Economy (Non Docs)	*	*
+FEDEX	FedEx	FDXIPD	FedEx International Priority (Docs)	*	*
+FEDEX	FedEx	FDXIPP	FedEx International Priority (Non Docs)	*	*
+FREE	Neutral transportör	FREEB	Neutral Brev	DK, FI, NO, SE	*
+FREE	Neutral transportör	FREEG	Neutral Gods	*	*
+FREE	Neutral transportör	FREEP	Neutral Paket	*	*
+FRKO	Fraktkompaniet	FRKOSTD	Fraktkompaniet	*	*
+FTLDK	Freja Transport & Logistics A/S	FTLDKSTD	Freja Transport & Logistics A/S	*	*
+FTLSE	Freja Transport & Logistics AB	FTLSESTD	Freja Transport & Logistics AB	*	*
+GLS	General Logistics Systems	GLSBPALL	GLS Business-Pallet	DK	DK
+GLS	General Logistics Systems	GLSA	GLS Business-Parcel	DK	DK
+GLS	General Logistics Systems	GLSEBP	GLS Euro Business-Parcel	DK	AD, AT, BA, BE, BG, BY, CH, CS, CY, CZ, DE, EE, ES, FI, FO, FR, GB, GE, GI, GL, GR, HR, HU, IE, IS, IT, LI, LT, LU, LV, MC, MD, ME, MK, MT, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, UA, VA
+GLS	General Logistics Systems	GLSGBP	GLS Global Business-Parcel	DK, SE	AE, AF, AG, AI, AM, AN, AO, AR, AS, AU, AW, AZ, BB, BD, BF, BH, BI, BJ, BM:BT, BN, BO, BR, BS, BW, BZ, CA, CD, CF, CG, CI, CK, CL, CM, CN, CO, CR, CV, DJ, DM, DO, DZ, EC, EG, ER, ET, FJ, GA, GD, GF, GM, GN, GP, GQ, GT, GU, GW, GY, HK, HN, HT, ID, IL, IN, IQ, IR, JM, JO, JP, KE, KG, KH, KR, KW, KY, KZ, LA, LB, LK, LR:LY, LS, MA, MG, ML, MM, MN, MO, MQ, MR, MS, MU, MV, MW, MX, MY, MZ:OM, NA, NC, NE, NG, NI, NP, NZ, PA, PE, PF, PG, PH, PK, PR, PS, PY, QA, RW, SA, SC, SD, SG, SL, SN, SO, SR, SV, SY, TD, TH, TL, TM, TN, TR, TT, TW, TZ, UG, US, UY, UZ, VE, VG, VI, VN, WS, YE, ZA, ZM, ZW
+GLS	General Logistics Systems	GLSESDSPALL	GLS Sameday Solution Pallet	DK	DK
+GLS	General Logistics Systems	GLSESDS16	GLS Sameday Solution Parcel	DK	DK
+GLS	General Logistics Systems	GLSPS	GLS ShopDelivery	DK	DK
+GLS	General Logistics Systems	GLSPSR	GLS ShopReturn	DK	DK
+GLSFI	GLS Finland	GLSFIEBF	GLS Finland Euro Business Freight	AX, FI	AN, AT, BE, CH, CZ, DE, DK, EE, ES, FR, GB, HR, HU, IE, IT, LI, LT, LU, LV, NL, NO, PL, PT, SE, SI, SK, SM, VA
+GLSFI	GLS Finland	GLSFIEBP	GLS Finland Euro Business Parcel	AX, FI	AD, AN, AT, BA, BE, BG, CH, CY, CZ, DE, DK, EE, ES, FR, GB, GI, GR, HR, HU, IE, IT, LI, LT, LU, LV, MT, NL, NO, PL, PT, RO, RS, SE, SI, SK, SM, SP, UA, VA
+GLSFI	GLS Finland	GLSFIEBPDOM	GLS Finland Euro Business Parcel	AX, FI	AX, FI
+GLSFI	GLS Finland	GLSFIGBP	GLS Finland Global Business Parcel	AX, FI	AE, AI, AL, AM, AQ, AR, AS, AU, AW, AZ, BD, BF, BH, BI, BJ, BN, BO, BR, BV, BX, BY, BZ, CA, CC, CD, CG, CI, CK, CL, CM, CN, CO, CR, CV, CX, DJ, DM, DO, DZ, EC, EG, EH, ER, ET, FJ, FM, FO, GA, GD, GE, GF, GH, GL, GM, GN, GP, GS, GT, GU, GY, HK, HM, HN, HT, ID, IL, IN, IO, IQ, JM, JO, JP, KE, KG, KH, KN, KR, KW, KY, KZ, LA, LB, LC, LK, LR, LS, LY, MA, MB, MC, MD, MG, MH, MK, ML, MN, MO, MP, MQ, MR, MS, MU, MV, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NP, NZ, OM, PA, PE, PF, PG, PH, PK, PN, PR, PS, PW, PY, QA, RE, RU, RW, SA, SC, SG, SJ, SN, SR, SV, SZ, TC, TD, TF, TG, TH, TL, TN, TO, TT, TW, TZ, UG, UM, US, UY, UZ, VC, VE, VI, VN, VU, WF, WS, XC, YE, YU, ZA, ZM, ZW
+GLSFI	GLS Finland	GLSFIGEP	GLS Finland Global Express Parcel	AX, FI	AD, AE, AI, AL, AM, AN, AQ, AR, AS, AT, AU, AW, AZ, BA, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BV, BX, BY, BZ, CA, CC, CD, CG, CH, CI, CK, CL, CM, CN, CO, CR, CV, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FJ, FM, FO, FR, GA, GB, GD, GE, GF, GH, GI, GL, GM, GN, GP, GR, GS, GT, GU, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IN, IO, IQ, IS, IT, JM, JO, JP, KE, KG, KH, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MB, MC, MD, MG, MH, MK, ML, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PN, PR, PS, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SC, SE, SG, SI, SJ, SK, SM, SN, SP, SR, SV, SZ, TC, TD, TF, TG, TH, TL, TN, TO, TR, TT, TW, TZ, UA, UG, UM, US, UY, UZ, VA, VC, VE, VI, VN, VU, WF, WS, XC, YE, YU, ZA, ZM, ZW
+HIT	PostNord InNight	H48	PostNord InNight	DK, FI, NO, SE	AT, AU, AX, BE, BG, BY, CA, CH, CN, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GR, HK, HR, HU, ID, IE, IM, IN, IT, JE, JP, KR, LT, LU, LV, ME, MY, NL, NO, NZ, PH, PL, PT, RO, RS, RU, SE, SG, SI, SK, SL, TH, TR, TW, UA, US
+IDRBUD	Idrottsbudet AB	IDRBUDEX	Idrottsbudet Paket Express	*	*
+IDRBUD	Idrottsbudet AB	IDRBUDSE	Idrottsbudet Styckegods Sverige	SE	SE
+IDRBUD	Idrottsbudet AB	IDRBUDI	Idrottsbudet Styckegods Utrikes	SE	*, AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, MC, MT, NL, PL, PT, RO, SI, SK
+INSTABOX	Instabox	INSTABOXSTD	Instabox	SE	SE
+JETPAK	Jetpak	JETPAK	Jetpak	NO, SE	DK, FI, NO, SE
+JETPAK	Jetpak	JETPAKTODAY	Jetpak Idag	NO, SE	DK, FI, NO, SE
+JETPAK	Jetpak	JETPAKDAY	Jetpak Imorgon Dag	NO, SE	DK, FI, NO, SE
+JETPAK	Jetpak	JETPAKEVN	Jetpak Imorgon Kväll	NO, SE	DK, FI, NO, SE
+JETPAK	Jetpak	JETPAKMORNING	Jetpak Imorgon Morgon	NO, SE	DK, FI, NO, SE
+KK	Kaukokiito	KKSTD	Kaukokiito	AX, FI, SE	AX, FI, SE
+MTD	MTD	MTDSTD	MTD	SE	SE
+MTD	MTD	MTDPLP	MTD Postlådepaket	SE	SE
+ONROAD	OnRoad	ONRILA	OnRoad Ila	SE	SE
+ONROAD	OnRoad	ONRSKICKA	OnRoad Skicka	SE	SE
+ONROAD	OnRoad	ONRSKYNDA	OnRoad Skynda	SE	SE
+PBREV	PostNord Brev	BREVPOST	PostNord - Brev	SE	*
+PBREV	PostNord Brev	PAF	PostNord - Brevpostförskott	SE	SE
+PBREV	PostNord Brev	BEXPD	PostNord - Expressbrev	SE	SE
+PBREV	PostNord Brev	BREV	PostNord - Normal	SE	*
+PBREV	PostNord Brev	BREKD	PostNord - Rekommenderat	SE	SE
+PBREV	PostNord Brev	BREKI	PostNord - Rekommenderat	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BW, BY, BZ, CA, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FK, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IM, IN, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MK, ML, MM, MN, MO, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PR, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SK, SL, SM, SN, SO, SR, ST, SV, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VG, VN, VU, WS, XK, YE, ZA, ZM, ZW
+PBREV	PostNord Brev	P34	PostNord - Spårbart brev utrikes (LA)	SE	AT, AW, BB, BE, BR, CA, CH, CN, CY, DE, DK, DO, EE, ES, FI, FR, GB, GI, GR, HK, HR, HU, IE, IL, IS, IT, KR, MT, MU, MX, MY, NL, NZ, PL, PT, RU, SA, SG, SI, SK, TR, US
+PBREV	PostNord Brev	PUA	PostNord - Varubrev 1:a klass	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BW, BY, BZ, CA, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FK, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IM, IN, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MK, ML, MM, MN, MO, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SK, SL, SM, SN, SR, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VG, VN, VU, WS, YE, ZA, ZM, ZW
+PBREV	PostNord Brev	PUE	PostNord - Varubrev Ekonomi	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BW, BY, BZ, CA, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FK, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IM, IN, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MK, ML, MM, MN, MO, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SK, SL, SM, SN, SR, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VG, VN, VU, WS, YE, ZA, ZM, ZW
+PBREV	PostNord Brev	PAG	PostNord - Varubrev Klimatekonomisk	SE	SE
+PBREV	PostNord Brev	PBM	PostNord - Varubrev Retur	SE	SE
+PBREV	PostNord Brev	BVAL	PostNord - Värde	SE	SE
+PBREV	PostNord Brev	EMSD2	PostNord EMS (brev/dokument)	SE	AE, AG, AI, AL, AM, AN, AO, AR, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BW, BY, BZ, CA, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FK, FO, FR, GA, GB, GD, GE, GF, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, JP, KE, KG, KH, KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MK, ML, MM, MN, MO, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PT, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SI, SK, SL, SM, SN, SR, ST, SV, TC, TD, TG, TH, TJ, TM, TN, TR, TT, TW, TZ, UA, UG, US, UY, UZ, VC, VE, VN, VU, WS, YE, ZA, ZM, ZW
+PBREV	PostNord Brev	EMSP2	PostNord EMS (paket/varor)	SE	AE, AG, AI, AL, AM, AN, AO, AR, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BW, BY, BZ, CA, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FK, FO, FR, GA, GB, GD, GE, GF, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, JP, KE, KG, KH, KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MK, ML, MM, MN, MO, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PT, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SI, SK, SL, SM, SN, SR, ST, SV, TC, TD, TG, TH, TJ, TM, TN, TR, TT, TW, TZ, UA, UG, US, UY, UZ, VC, VE, VN, VU, WS, YE, ZA, ZM, ZW
+PDT	Per Damgaard Transport APS	PDTSTD	Per Damgaard Transport	*	*
+PLAB	PostNord Sverige AB	DPD	PostNord DPD Utrikes	AT, AX, BE, BG, CH, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, IT, LT, LU, LV, NL, NO, PL, PT, RO, RS, SE, SI, SK	*, AT, AX, BE, BG, CH, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, IT, LT, LU, LV, NL, NO, PL, PT, RO, RS, SE, SI, SK
+PLAB	PostNord Sverige AB	P42	PostNord Express - Expresspaket	SE	SE
+PLAB	PostNord Sverige AB	P83	PostNord Groupage	SE	AX, DK, FI, NO, SE
+PLAB	PostNord Sverige AB	P91	PostNord International Parcel	SE	AD, AE, AF, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BW, BY, BZ, CA, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FJ, FK, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MK, ML, MM, MN, MO, MP, MQ, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PT, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SG, SH, SI, SJ, SK, SL, SM, SN, SR, ST, SV, SZ, TC, TD, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW
+PLAB	PostNord Sverige AB	P19	PostNord MyPack Collect	DK, NO, SE	AX, DK, FI, FO, GL, NO, SE
+PLAB	PostNord Sverige AB	P19DPD	PostNord MyPack Collect	SE	AT, BE, DE, EE, FR, LT, LU, LV, NL
+PLAB	PostNord Sverige AB	P32	PostNord MyPack Home - inrikes	SE	SE
+PLAB	PostNord Sverige AB	P17	PostNord MyPack Home - utrikes	NO, SE	DK, FI, NO, SE
+PLAB	PostNord Sverige AB	P17DPD	PostNord MyPack Home - utrikes	SE	AT, BE, DE, EE, ES, FR, GB, LT, LU, LV, NL, PL, PT
+PLAB	PostNord Sverige AB	P52	PostNord Pallet	SE	AT, AX, BA, BE, BG, BY, CH, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GR, HR, HU, IE, IM, IT, JE, LT, LU, LV, ME, MK, NL, NO, PL, PT, RO, RS, SE, SI, SK, TR, UA
+PLAB	PostNord Sverige AB	P31	PostNord Parcel 09	SE	SE
+PLAB	PostNord Sverige AB	P14	PostNord Parcel 12	SE	SE
+PLAB	PostNord Sverige AB	P15	PostNord Parcel	SE	SE
+PLAB	PostNord Sverige AB	P24	PostNord Return Drop Off	DK, NO, SE	AX, DK, FI, FO, GL, NO, SE
+PLAB	PostNord Sverige AB	P24DPD	PostNord Return Drop Off	SE	AT, BE, DE, FR, LU, NL
+PLAB	PostNord Sverige AB	P22R	PostNord Return Pickup	SE	SE
+PNL	Bring Parcels AB	PNL336	Bring Business Pallet	AT, AX, BE, CH, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GL, GR, HU, IE, IS, IT, LT, LU, LV, NL, PL, PT, SE, SI, SK	AT, AX, BE, CH, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GL, GR, HU, IE, IS, IT, LT, LU, LV, NL, NO, PL, PT, SE, SI, SK
+PNL	Bring Parcels AB	PNL330	Bring Business Parcel	DK, FI, SE	*
+PNL	Bring Parcels AB	PNL332	Bring Business Parcel Bulk	AT, AX, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GG, GR, HR, HU, IE, IM, IS, IT, JE, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK	DE, DK, EE, FI, FO, GB, GG, IM, IS, JE, NL, NO, SE
+PNL	Bring Parcels AB	PNL331	Bring Business Parcel Return	DK, FI, SE	DK, FI, NO, SE
+PNL	Bring Parcels AB	PNL333	Bring Business Parcel Return Bulk	DK, FI, SE	DK, FI, NO, SE
+PNL	Bring Parcels AB	PNLWAY	Bring CarryOn Waybill	AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK	*
+PNL	Bring Parcels AB	PNL335	Bring Express Nordic 09:00	SE	SE
+PNL	Bring Parcels AB	PNL334	Bring Express Nordic 09:00 Bulk	AT, AX, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GR, HR, HU, IE, IM, IT, JE, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK	NO, SE
+PNL	Bring Parcels AB	PNL339	Bring Express Nordic 09:00 Pallet	SE	SE
+PNL	Bring Parcels AB	PNL345	Bring Home Delivery Mailbox	AT, AX, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GR, HR, HU, IE, IM, IT, JE, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK	NO
+PNL	Bring Parcels AB	PNL349	Bring Home Delivery Parcel	AT, AX, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GR, HR, HU, IE, IM, IT, JE, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK	DK, FI, NO, SE
+PNL	Bring Parcels AB	PNL348	Bring Home Delivery Parcel Return	DK, SE	DK, FI, NO, SE
+PNL	Bring Parcels AB	PNL340	Bring PickUp Parcel	DK, FI, SE	*
+PNL	Bring Parcels AB	PNL359	Bring PickUp Parcel Budget	AT, AX, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GR, HR, HU, IE, IM, IT, JE, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK	FO, GL, IS
+PNL	Bring Parcels AB	PNL342	Bring PickUp Parcel Bulk	AT, AX, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GR, HR, HU, IE, IM, IT, JE, LT, LU, LV, MC, MT, NL, PL, PT, RO, SE, SI, SK	DE, DK, EE, FI, FO, GB, IS, NL, NO, SE
+PNL	Bring Parcels AB	PNL341	Bring PickUp Parcel Return	DK, FI, SE	DK, FI, NO, SE
+PNL	Bring Parcels AB	PNL343	Bring PickUp Parcel Return Bulk	DK, FI, SE	DK, FI, NO, SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO336	Bring Business Pallet	NO	AT, AX, BE, CH, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GI, GR, HU, IE, IS, IT, LT, LU, LV, NL, PL, PT, SE, SI, SK
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO330	Bring Business Parcel	NO	AR, AT, AU, AX, BE, BG, BR, BY, CA, CH, CL, CN, CU, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GL, GR, HK, HR, HU, ID, IE, IN, IS, IT, JP, KR, LT, LU, LV, MC, ME, MT, MY, NL, NZ, PH, PL, PT, RO, RS, RU, SA, SE, SG, SI, SK, TH, TR, TW, UA, US, ZA
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO332	Bring Business Parcel Bulk	NO	DE, DK, EE, FI, FO, GB, GG, IM, IS, JE, NL, SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO331	Bring Business Parcel Return	NO	DK, FI, NO, SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO333	Bring Business Parcel Return Bulk	NO	DK, FI, NO, SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNOWAY	Bring CarryOn Waybill	NO	*
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO334	Bring Express Nordic 09:00 Bulk	NO	SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO349	Bring Home Delivery Parcel	NO	DK, FI, SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO340	Bring PickUp Parcel	NO	AT, BE, CH, CZ, DE, DK, EE, ES, FI, FO, FR, GB, GL, GR, HU, IE, IT, LT, LU, LV, NL, PL, PT, SE, SI, SK, US
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO342	Bring PickUp Parcel Bulk	NO	DE, DK, EE, FI, FO, GB, IS, NL, SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO341	Bring PickUp Parcel Return	NO	DK, FI, NO, SE
+PNLNO	Bring Parcels Norge (utrikes)	PNLNO343	Bring PickUp Parcel Return Bulk	NO	DK, FI, NO, SE
+PP	Privpak	PPUFORETSE	Privpak Ombud-Ekonomi (retur)	NO, SE	SE
+PP	Privpak	PPUFORTRSE	Privpak Ombud-Ekonomi (tur & retur)	NO, SE	SE
+PP	Privpak	PPUFOSTDSE	Privpak Ombud-Ekonomi (tur)	NO, SE	SE
+PPDK	Privpak Danmark	PPDKRET	Privpak Danmark (retur)	DK, SE	DK
+PPDK	Privpak Danmark	PPDKSTD	Privpak Danmark (tur)	DK, SE	DK
+PPFI	Privpak Finland	PPFITRRET	Privpak Finland (tur & retur)	FI, SE	FI
+PPFI	Privpak Finland	PPFITR	Privpak Finland (tur)	FI, SE	FI
+SBTL	DB Schenker	BCSI	DB SCHENKERcoldsped - Europa	SE	*
+SBTL	DB Schenker	BCS	DB SCHENKERcoldsped - Sverige	SE	SE
+SBTL	DB Schenker	BDI	DB SCHENKERdirect	SE	AD, AL, AT, AX, BA, BE, BG, BY, CH, CS, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GI, GR, HR, HU, IE, IM, IR, IT, JE, KZ, LI, LT, LU, LV, MA, MC, MD, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TN, TR, UA
+SBTL	DB Schenker	BPA	DB SCHENKERparcel	SE	AD, AE, AG, AI, AL, AM, AN, AO, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BM, BN, BO, BR, BS, BT, BW, BY, BZ, CA, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CS, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GT, GU, GY, HK, HN, HR, HT, HU, ID, IE, IL, IM, IN, IQ, IS, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NG, NI, NL, NO, NP, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PR, PS, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SE, SG, SI, SK, SL, SM, SN, SR, SV, SY, SZ, TC, TD, TG, TH, TJ, TL, TN, TO, TR, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW
+SBTL	DB Schenker	BPHDAP	DB SCHENKERparcel Hem dag med kvittens (Paket)	SE	SE
+SBTL	DB Schenker	BPHDP	DB SCHENKERparcel Hem dag utan kvittens	SE	SE
+SBTL	DB Schenker	BPHKAP	DB SCHENKERparcel Hem kväll med kvittens	SE	SE
+SBTL	DB Schenker	BHP	DB SCHENKERparcel Ombud (1 kolli, <20 kg)	SE	SE
+SBTL	DB Schenker	BCF	DB SCHENKERsystem	SE	AD, AL, AT, AX, BA, BE, BG, BY, CH, CS, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GI, GR, HR, HU, IE, IM, IR, IT, JE, KZ, LI, LT, LU, LV, MA, MC, MD, ME, MK, NL, NO, PL, PT, RO, RS, RU, SE, SI, SK, SM, TN, TR, UA
+SBTL	DB Schenker	BPOSG	DB SCHENKERsystem Terminalombud	SE	SE
+SBTLAO	DB SCHENKER Air & Ocean	SBTLOCEAN	DB SCHENKER Air & Ocean - Enkel Sjöfrakt 	SE	AE, AR, AU, BD, BH, BN, BR, CA, CL, CM, CN, CO, CR, CU, CY, DJ, DO, DZ, EC, EG, ES, ET, GF, GH, GP, GT, GU, HK, HN, HT, ID, IL, IN, IQ, IS, JO, JP, KE, KH, KR, KW, LB, LK, MA, MM, MO, MQ, MT, MU, MV, MX, MY, NA, NG, NI, NZ, OM, PA, PE, PH, PK, PR, PY, QA, RE, RU, SA, SG, SN, SV, SY, TH, TN, TR, TW, TZ, UG, US, UY, VE, VN, ZA, ZW
+SBTLFI	DB SCHENKER export	SBTLFISY	DB SCHENKER export	FI	AT, BE, BG, CH, CY, CZ, DE, DK, EE, ES, FR, GB, GR, HR, HU, IE, IT, LT, LU, LV, MC, MT, NL, NO, PL, PT, RO, SE, SI, SK
+SF	Småfrakt	SFDIR	Småfrakt Direkt	SE	SE
+SF	Småfrakt	SFECO	Småfrakt Ekonomi	SE	SE
+SF	Småfrakt	SF4H	Småfrakt Fyratimmars	SE	SE
+SWIPBOX	Swipbox	SWIPBOXSTD	Swipbox Paket	DK, SE	DK
+TKLOG	TK Logistik	TKLOGGODS	TK Logistik Gods	SE	*
+TNT	TNT	TNT09D	TNT 09:00 Express (Docs)	AX, DE, DK, EE, FI, LT, NO, SE	*
+TNT	TNT	TNT09	TNT 09:00 Express (Domestic)	DK, SE	DK, SE
+TNT	TNT	TNT09N	TNT 09:00 Express (Non Docs)	AX, DE, DK, EE, FI, LT, NO, SE	*
+TNT	TNT	TNT10D	TNT 10:00 Express (Docs)	AX, DE, DK, EE, FI, LT, NO, SE	*
+TNT	TNT	TNT10	TNT 10:00 Express (Domestic)	DK, SE	DK, SE
+TNT	TNT	TNT10N	TNT 10:00 Express (Non Docs)	AX, DE, DK, EE, FI, LT, NO, SE	*
+TNT	TNT	TNT412	TNT 12:00 Economy Express (Non Docs)	AX, DE, DK, EE, FI, LT, LV, NO, SE	*
+TNT	TNT	TNT12D	TNT 12:00 Express (Docs)	AX, DE, DK, EE, FI, LT, NO, SE	*
+TNT	TNT	TNT12	TNT 12:00 Express (Domestic)	AX, DK, FI, SE	AX, DK, FI, SE
+TNT	TNT	TNT12N	TNT 12:00 Express (Non Docs)	AX, DE, DK, EE, FI, LT, NO, SE	*
+TNT	TNT	TNT48N	TNT Economy Express (Non Docs)	AX, DE, DK, EE, FI, LT, LV, NO, PL, SE	*
+TNT	TNT	TNT15D	TNT Express (Docs)	AX, DE, DK, EE, FI, LT, NO, PL, SE	, *
+TNT	TNT	TNT15DOMD	TNT Express (Domestic Docs)	AX, DE, DK, EE, FI, NO, PL, SE	AX, DE, DK, EE, FI, NO, PL, SE
+TNT	TNT	TNT15DOMN	TNT Express (Domestic Non Docs)	AX, DE, DK, EE, FI, NO, PL, SE	AX, DE, DK, EE, FI, NO, PL, SE
+TNT	TNT	TNT15	TNT Express (Domestic)	AX, DK, FI, NO, PL, SE	AX, DK, FI, NO, PL, SE
+TNT	TNT	TNT15N	TNT Express (Non Docs)	AX, DE, DK, EE, FI, LT, NO, PL, SE	*
+TNT	TNT	TNT728	TNT Special Economy Express	AX, DK, FI, NO, SE	*
+TP	Posti Oy, Styckegods (fd. VR Transpoint)	TPSTD	Posti - Logistics Oy, Styckegods	FI	FI
+TRANSPORTOREN	Transportören	TRANSPORTORENSTD	Transportören Inrikes	DK, FI, NO, SE	DK, FI, NO, SE
+UPS	UPS	UPSEXPDTD	UPS Expedited (Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPDTG	UPS Expedited (GNIFC)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPDTP	UPS Expedited (Non Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPD	UPS Express (Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPG	UPS Express (GNIFC)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPP	UPS Express (Non Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPPLUSD	UPS Express Plus (Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPPLUSG	UPS Express Plus (GNIFC)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSEXPPLUSP	UPS Express Plus (Non Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSSAVD	UPS Express Saver (Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSSAVG	UPS Express Saver (GNIFC)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSSAVP	UPS Express Saver (Non Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSSTDD	UPS Standard (Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
+UPS	UPS	UPSSTDP	UPS Standard (Non Docs)	DE, DK, FI, GB, NL, NO, PL, SE	*
